@@ -57,7 +57,7 @@ on:
         type: choice
         options:
           - -ophub
-          - -yourname
+          - -JJCoffee
       kernel_config:
         description: "Set the path of kernel .config"
         required: false
